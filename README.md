@@ -1,2 +1,2 @@
 # star2d-tools
-Build tools for exporting game in star2d engine as a apk
+Build tools for building game using java for star2d game engine
