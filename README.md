@@ -1,5 +1,5 @@
-# star2d-tools
-Build tools for building game using java for star2d game engine
+# Star2d-tools
+Build tools for building game using java for Star2d game engine
 
 **Note** after downloading the file , move it to the directory:
 ```
